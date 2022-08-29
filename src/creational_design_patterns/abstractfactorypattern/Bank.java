@@ -3,7 +3,7 @@ package creational_design_patterns.abstractfactorypattern;
 
 import java.io.*;
 
-interface Bank {
+public interface Bank {
     String getBankName();
 
 }

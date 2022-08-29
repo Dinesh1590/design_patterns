@@ -1,10 +1,7 @@
 package structural_design_patterns.composite_pattern;
 
 public class Cashier implements Employee {
-    /*
-         In this class,there are many methods which are not applicable to cashier because
-         it is a leaf node.
-     */
+
     private int id;
     private String name;
     private double salary;
